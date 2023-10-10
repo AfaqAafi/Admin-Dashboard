@@ -68,7 +68,7 @@ const Dashboard = () => {
             <h2>Inventory</h2>
             {/*// ! Categories Here */}
             <div>
-              {data.categories.map((item, index) => (
+              {data.categories.map((item) => (
                 <CategoryItem
                   key={item.heading}
                   heading={item.heading}

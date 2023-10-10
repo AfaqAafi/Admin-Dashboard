@@ -31,7 +31,6 @@ function TableHoc<T extends Object>(
       getTableBodyProps,
       headerGroups,
       page,
-      rows,
       prepareRow,
       nextPage,
       pageCount,

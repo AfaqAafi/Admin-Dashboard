@@ -12,7 +12,6 @@ import {
   FaChartPie,
   FaChartLine,
   FaStopwatch,
-  FaGamepad,
 } from "react-icons/fa";
 import { useEffect, useState } from "react";
 import { HiMenuAlt4 } from "react-icons/hi";
